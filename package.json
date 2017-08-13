@@ -1,0 +1,23 @@
+{
+  "name": "icici_scrapper",
+  "version": "1.0.0",
+  "description": "This is a scraper that scraps a particular URL and populates a excel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akshat Jain",
+  "license": "ISC",
+  "dependencies": {
+    "casperjs": "^1.1.4",
+    "cheerio": "latest",
+    "exceljs": "^0.5.1",
+    "express": "latest",
+    "line-reader": "^0.4.0",
+    "nightmare": "^2.10.0",
+    "node-horseman": "^3.3.0",
+    "phantom": "^4.0.5",
+    "request": "latest",
+    "vo": "^4.0.2"
+  }
+}

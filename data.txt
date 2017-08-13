@@ -1,0 +1,30 @@
+/*
+
+    Documentation for Dataset
+    -------------------------
+
+    Each line contains a record in JSON format. 
+    The new line character is appended after every line.
+
+    An example record:
+
+    {
+        "0" : "61176679",                  // CCH Txn ID 
+        "1" : "RJ32GA7266",                // Licence Plate No.
+        "2" : "918907048040000095D0",      // Hex Tag No. 
+        "3" : "11/08/2017 00:00:06",       // Trip Date/Time
+        "4" : "11/08/2017 00:11:46",       // Processed Date/Time
+        "5" : "Piplaz Toll Plaza,13",      // Location
+        "6" : "986256",                    // Agency Txn ID 
+        "7" : "Image Review",              // Trip Status
+        "8" : "image_2.png",               // Corresponding Image File Name
+        "9" : "N/A",                       // State 
+        "10" : "HCM,EME or MAV(3-6A)",     // Agency Vehicle Class
+        "11" : "Truck 6 axle",             // Tag Vehicle Class
+        "12" : "N/A",                      // Corrected Vehicle Class
+    }
+
+*/
+
+
+
